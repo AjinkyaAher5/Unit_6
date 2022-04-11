@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "ajinkya",
+      "age": "22",
+      "dateOfBirth": "2022-04-05",
+      "stateOfResidence": "maha",
+      "address": "nsk",
+      "pincode": "422005",
+      "id": 1
+    },
+    {
+      "name": "ajinkya",
+      "age": "22",
+      "dateOfBirth": "2022-04-05",
+      "stateOfResidence": "maha",
+      "address": "nsk",
+      "pincode": "422005",
+      "id": 2
+    },
+    {
+      "name": "ajinkya",
+      "age": "22",
+      "dateOfBirth": "2022-04-05",
+      "stateOfResidence": "maha",
+      "address": "nsk",
+      "pincode": "422005",
+      "id": 3
+    },
+    {
+      "name": "ajinkya",
+      "age": "22",
+      "dateOfBirth": "2022-04-02",
+      "stateOfResidence": "a",
+      "address": "b",
+      "pincode": "4",
+      "id": 4
+    },
+    {
+      "name": "d",
+      "age": "2",
+      "dateOfBirth": "2022-04-05",
+      "stateOfResidence": "e",
+      "address": "e",
+      "pincode": "1",
+      "id": 5
+    }
+  ]
+}
